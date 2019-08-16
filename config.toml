@@ -36,7 +36,7 @@ enableEmoji = true
 [params]
   description = "PEK白日梦女的闲言碎语"
   since = "2018"
-  homeFullContent = false
+  homeFullContent = true
   rssFullContent = true
   toc = false
   dateFormatToUse = "2006-01-02"
