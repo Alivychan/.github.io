@@ -1,5 +1,5 @@
-#baseURL = "https://www.alivychan.me"
-baseURL = "http://localhost"
+baseURL = "https://www.alivychan.me"
+# baseURL = "http://localhost"
 defaultContentLanguage = "en"
 title = "CRUCIBLE"
 theme = "jane"
