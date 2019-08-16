@@ -1,0 +1,29 @@
+baseURL = "http://example.org/"
+languageCode = "zh-CN"
+title = "CRUCIBLE"
+theme = "ezhil"
+hasCJKLanguage = true
+
+[author]
+  name = "alivychan"
+
+[[menu.main]] 
+  name = "Home"
+  identifier = "home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Archives"
+  identifier = "archives"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 3
+
+[params]
+  subtitle = "PEK白日梦女的闲言碎语"
+  disableDisqusTypes = "posts"
