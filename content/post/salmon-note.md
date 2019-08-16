@@ -1,7 +1,11 @@
 ---
 title: "今天我吃了八百克三文鱼。"
 date: 2018-09-01T23:12:55+08:00
-type: posts
+keywords: []
+description: ""
+tags: []
+categories: []
+author: "alivychan"
 ---
 
 *   小朋友们大家好！这是来自Alivy个人博客的第一篇文章！
