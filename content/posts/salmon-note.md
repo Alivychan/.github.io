@@ -1,7 +1,6 @@
 ---
 title: "今天我吃了八百克三文鱼。"
 date: 2018-09-01T23:12:55+08:00
-draft: true
 type: posts
 ---
 
