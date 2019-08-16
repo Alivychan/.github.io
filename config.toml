@@ -1,4 +1,4 @@
-baseURL = "https://www.alivychan.me/"
+baseURL = "https://www.alivychan.me"
 languageCode = "zh-CN"
 title = "CRUCIBLE"
 theme = "ezhil"
