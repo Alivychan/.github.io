@@ -7,6 +7,7 @@ hasCJKLanguage = true
 paginate = 3
 enableRobotsTXT = true
 enableEmoji = true
+customCSS = ['custom.css']
 
 [author]
   name = "alivychan"
